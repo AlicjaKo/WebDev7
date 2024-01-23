@@ -1,0 +1,26 @@
+body {
+  background-color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+  height: 100vh;
+}
+
+.cont h1 {
+  font-size: 40px;
+}
+
+.back {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(188, 229, 244);
+  padding: 25px;
+  border-radius: 15px;
+}
